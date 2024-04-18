@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 
 # Load model
-with open('pipeline_model.pkl', 'rb') as file:
+with open('pickle/pipeline_model.pkl', 'rb') as file:
     pipeline = pickle.load(file)
 
 # Streamlit UI

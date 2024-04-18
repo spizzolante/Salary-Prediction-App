@@ -1,0 +1,7 @@
+# gitignore
+
+pictures/
+requirements-dev.in
+requirements.in
+.DS_Store
+

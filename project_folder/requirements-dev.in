@@ -1,0 +1,10 @@
+# requirements-dev.in
+
+pandas
+scikit-learn
+numpy
+streamlit
+matplotlib
+seaborn
+plotly
+scipy
